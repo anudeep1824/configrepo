@@ -1,0 +1,5 @@
+server.port=9999
+message=hello world
+location=bengaluru
+year=2025
+client=tcs
